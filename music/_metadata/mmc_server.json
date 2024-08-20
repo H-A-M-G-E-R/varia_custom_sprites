@@ -1897,6 +1897,15 @@
         "description": "Port",
         "group": "Star Fox"
     },
+    "Secret Activated!": {
+        "nspc_path": "MMC_Server/Secret Activated!.nspc",
+        "spc_path": "MMC_Server/Secret Activated!.spc",
+        "track_index": 0,
+        "original_author": "Hajime Hirasawa",
+        "port_author": "H A M",
+        "description": "Port",
+        "group": "Star Fox"
+    },
     "Unknown Track 1 (Star Fox)": {
         "nspc_path": "MMC_Server/Boss (Macbeth).nspc",
         "spc_path": "MMC_Server/Unknown Track 1 (Star Fox).spc",
